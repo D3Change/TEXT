@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="E:\Change\学习\Python\不确定度计算器\venv"
+$env:VIRTUAL_ENV="E:\Change\学习\Python\The Calculator of Linear equations of one element and two times\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name

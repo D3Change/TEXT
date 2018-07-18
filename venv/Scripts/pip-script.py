@@ -1,4 +1,4 @@
-#!E:\Change\学习\Python\不确定度计算器\venv\Scripts\python.exe -x
+#!"E:\Change\学习\Python\The Calculator of Linear equations of one element and two times\venv\Scripts\python.exe" -x
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==10.0.1','console_scripts','pip'
 __requires__ = 'pip==10.0.1'
 import re

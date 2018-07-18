@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=E:\Change\学习\Python\不确定度计算器\venv"
+set "VIRTUAL_ENV=E:\Change\学习\Python\The Calculator of Linear equations of one element and two times\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
